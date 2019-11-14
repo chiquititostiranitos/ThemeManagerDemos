@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Themer",
+        "repositoryURL": "https://github.com/SergeBouts/Themer.git",
+        "state": {
+          "branch": null,
+          "revision": "d1a6e41e2e47c973c211181c716d5f88861f984c",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
